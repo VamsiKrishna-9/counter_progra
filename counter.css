@@ -1,0 +1,28 @@
+#mylabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+#mydiv{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 10px;
+    font-size: large;
+    background-color: rgb(200, 149, 247);
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#myincrease:hover{
+    background-color: rgb(235, 246, 33);
+    color: black;
+}
+#myreset:hover {
+    background-color: brown;
+    
+}
+#mydecrease:hover {
+    background-color: tomato;
+    color: black;
+}
